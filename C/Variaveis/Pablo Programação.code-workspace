@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"name": "linux",
+			"path": "../../linux"
+		}
+	],
+	"settings": {}
+}
